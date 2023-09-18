@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Halloween",
+        "date": "09/18/2023",
+        "image": "https://images.pexels.com/photos/236277/pexels-photo-236277.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "comment" : "Halloween is approaching",
+        "hashtags": ["#witches", "#candy", "#ghosts"]
+    },
+    {
+        "title": "Spooky Season",
+        "date": "09/18/2023",
+        "image": "https://images.pexels.com/photos/417049/pexels-photo-417049.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "comment" : "Trick O Treat",
+        "hashtags": ["#monsters", "#pumpkins", "#costumes"]
+    }
+]
