@@ -1,16 +1,9 @@
 [
     {
-        "title": "The Shawshank Redemption",
+        "title": "Twitter Coding Meme",
         "date": "09/18/2023",
-        "image": "https://source.unsplash.com/random/?web,development",
-        "comment" : "This is a great movie",
-        "hashtags": ["#shawshank", "#redemption", "#morganfreeman"]
-    },
-    {
-        "title": "The Shawshank Redemption",
-        "date": "09/18/2023",
-        "image": "https://source.unsplash.com/random/?web,development",
-        "comment" : "This is a great movie, This is a great movie This is a great movie This is a great movie",
-        "hashtags": ["#shawshank", "#redemption", "#morganfreeman"]
+        "image": "https://pbs.twimg.com/media/F4XrvYZWUAAR7eR?format=jpg&name=medium",
+        "comment" : "Just a casual meme",
+        "hashtags": ["#twitter", "#x"]
     }
 ]
