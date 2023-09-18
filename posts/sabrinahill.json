@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Santorini, Greece",
+        "date": "09/18/2023",
+        "image": "https://unsplash.com/photos/aapSemzfsOk",
+        "comment" : "Travel Suggestions",
+        "hashtags": ["#greece", "#santorini", "#vacation"]
+    },
+    {
+        "title": "Maldive Islands, Maldives",
+        "date": "09/18/2023",
+        "image": "https://unsplash.com/photos/KenpE6DO1l0",
+        "comment" : "Lovers Paradise",
+        "hashtags": ["#maldives", "#beach", "#privte", "#lovers"]
+    }
+]
