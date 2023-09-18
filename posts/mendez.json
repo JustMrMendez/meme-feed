@@ -1,16 +1,16 @@
 [
     {
-        "title": "The Shawshank Redemption",
+        "title": "States of a programmer",
         "date": "09/18/2023",
-        "image": "https://source.unsplash.com/random/?web,development",
-        "comment" : "This is a great movie",
-        "hashtags": ["#shawshank", "#redemption", "#morganfreeman"]
+        "image": "states-of-a-programmer.png",
+        "comment" : "hahaha",
+        "hashtags": ["#programmingmemes", "#memes", "#programming"]
     },
     {
-        "title": "The Shawshank Redemption",
+        "title": "No error found",
         "date": "09/18/2023",
-        "image": "https://source.unsplash.com/random/?web,development",
-        "comment" : "This is a great movie, This is a great movie This is a great movie This is a great movie",
-        "hashtags": ["#shawshank", "#redemption", "#morganfreeman"]
+        "image": "maxresdefault.jpg",
+        "comment" : "I hate when that happens",
+        "hashtags": ["#programmingmemes", "#bestprogrammingmemes", "#thereisnowaymemes"]
     }
 ]
