@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Sunrise",
+        "date": "09/25/2023",
+        "image": "https://www.surfertoday.com/images/stories/sunrisesunsettime.jpg",
+        "comment" : "Beuatiful sunrise",
+        "hashtags": ["#sunrise", "#nature", "#beauty"]
+    },
+    {
+        "title": "Hello rainbow",
+        "date": "10/31/2023",
+        "image": "https://scitechdaily.com/images/Double-Rainbow-in-Nature.jpg",
+        "comment" : "in love with nature's beauty",
+        "hashtags": ["#amazing", "#promises", "#colors"]
+    }
+]
